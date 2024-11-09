@@ -5,7 +5,7 @@ This project uses a Random Forest model to predict the quality of red and white 
 
 ## Dataset
 - **Source**: The dataset includes attributes of red and white wines, such as acidity, chlorides, and density.
-- **Target**: Quality score on a scale (typically 1–8), indicating the wine's overall rating.
+- **Target**: Quality score on a scale (typically 3–8), indicating the wine's overall rating.
 
 ## Project Structure
 - **Data Preprocessing**: Data is cleaned, normalized, and split into training and test sets. Both red and white wines are analyzed, with feature scaling applied for optimal model performance.
